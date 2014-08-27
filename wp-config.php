@@ -10,13 +10,13 @@
  * This file is used by the wp-config.php creation script during the
  * installation. You don't have to use the web site, you can just copy this file
  * to "wp-config.php" and fill in the values.
- *
+ * TEST
  * @package WordPress
  */
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'wp_wpoliver');
+define('DB_NAME', 'wp_wordpress-oliver');
 /** MySQL database username */
 define('DB_USER', 'root');
 
